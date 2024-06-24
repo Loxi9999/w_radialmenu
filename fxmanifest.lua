@@ -1,4 +1,3 @@
-shared_script '@waitrp_shield2/ai_module_fg-obfuscated.lua'
 fx_version 'adamant'
 game 'gta5'
 lua54 'yes'
